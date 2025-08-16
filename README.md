@@ -20,7 +20,7 @@ davies-burgers-box-model/
 ---
 
 ## ▶️ Live Demo  
-[![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-black?style=for-the-badge&logo=codesandbox)](https://codesandbox.io/p/sandbox/github/<your-username>/davies-burgers-box-model)  
+[![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-black?style=for-the-badge&logo=codesandbox)](https://codesandbox.io/p/sandbox/github/sunilkumarpeela/davies-burgers-box-model)  
 
 
 ---
